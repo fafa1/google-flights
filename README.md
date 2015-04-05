@@ -10,4 +10,4 @@ nesse arquivo. Ele é salvo em um banco de dados chamado 'banco', cujo o nome da
 
 os dados do banco sao também salvo em formatado 'json'
 
-foi usado a biblioteca 'dataset' para abstrair o SQL
+foi usado a biblioteca 'dataset' para abstrair o SQL, e uma interaçao basica com o usuario.
