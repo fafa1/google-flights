@@ -8,6 +8,6 @@ faltando a postagem de graficos, com o matplotlib
 
 nesse arquivo. Ele é salvo em um banco de dados chamado 'banco', cujo o nome da tabela é 'city'
 
-os dados do banco sao também salvo em formatado 'json', depois de compilado, ele gera um banco de dados - 'banco' e um arquivo json
+os dados do banco sao também salvo em formatado 'json', depois de executado no terminal, ele gera um banco de dados - 'banco' e um arquivo json
 
 foi usado a biblioteca 'dataset' para abstrair o SQL, e uma interaçao basica com o usuario.
